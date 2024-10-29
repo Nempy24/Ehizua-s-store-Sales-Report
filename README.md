@@ -1,2 +1,2 @@
-# Ehizua-store-Sales-Report
+# Ehizua-Store-Sales-Report
 “$ mkdir my-website"
